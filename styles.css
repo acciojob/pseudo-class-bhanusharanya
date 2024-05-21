@@ -9,7 +9,7 @@
 }
 
 #container::before {
-    content: "Special Text Before";
+    content: "Before Element";
     color: #f00;
     font-size: 20px;
     display: block;
@@ -17,7 +17,7 @@
 }
 
 #container::after {
-    content: "Special Text After";
+    content: "After Element";
     color: #f00;
     font-size: 20px;
     display: block;
